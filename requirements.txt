@@ -1,7 +1,7 @@
 -i https://pypi.org/simple
 absl-py==0.7.1
 appnope==0.1.0
-asn1crypto==0.24.0
+asn1crypto==1.4.0
 astor==0.7.1
 backcall==0.1.0
 backports.weakref==1.0.post1
