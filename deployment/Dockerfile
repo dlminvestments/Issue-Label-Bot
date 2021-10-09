@@ -1,4 +1,4 @@
-FROM python:3.7-slim-buster
+FROM python:3.10.0rc1-slim
 
 RUN apt-get update 
 RUN apt-get upgrade -y
