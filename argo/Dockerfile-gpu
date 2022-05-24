@@ -1,7 +1,7 @@
 snyk-fix-fd9cf3ac66ec85c373bd6fbe0c96f245
 FROM tensorflow/tensorflow:latest-gpu
 =======
-FROM tensorflow/tensorflow:2.8.0-gpu
+FROM tensorflow/tensorflow:2.8.2-gpu
 master
 
 RUN pip install numpy pandas scikit-learn dill dask distributed dask-ml keras
