@@ -40,7 +40,7 @@ ktext==0.34
 markdown==3.1
 markupsafe==1.1.1
 matplotlib==3.0.3
-mistune==2.0.1
+mistune==2.0.3
 mock==2.0.0
 more-itertools==7.0.0
 msgpack-numpy==0.4.4.2
