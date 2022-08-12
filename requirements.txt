@@ -47,7 +47,7 @@ msgpack-numpy==0.4.4.2
 msgpack==0.6.1
 multiprocess==0.70.7
 murmurhash==1.0.2
-nbconvert==5.4.1
+nbconvert==6.3.0b0
 nbformat==4.4.0
 networkx==2.6
 pandas==0.24.2
