@@ -7,7 +7,7 @@ FROM tensorflow/tensorflow:2.8.2-gpu
 snyk-fix-7bb4d32fa7a3fce4accbeab2cdbc3155
 FROM tensorflow/tensorflow:2.8.1-gpu
 =======
-FROM tensorflow/tensorflow:2.9.0rc2-gpu
+FROM tensorflow/tensorflow:2.10.0rc0-gpu
 master
 master
 master
