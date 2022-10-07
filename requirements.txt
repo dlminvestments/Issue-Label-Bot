@@ -30,7 +30,7 @@ jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
 jupyter==1.0.0
-jwcrypto==0.6.0
+jwcrypto==1.4
 jwt==0.6.1
 keras-applications==1.0.7
 keras-preprocessing==1.0.9
@@ -63,7 +63,7 @@ ppft==1.6.4.9
 preshed==2.0.1
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-protobuf==3.7.1
+protobuf==3.18.3
 psycopg2-binary==2.7.7
 psycopg2==2.7.7
 ptyprocess==0.6.0
