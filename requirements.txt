@@ -28,7 +28,7 @@ jsonify==0.5
 jsonschema==2.6.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
-jupyter-core==4.4.0
+jupyter-core==4.11.2
 jupyter==1.0.0
 jwcrypto==1.4
 jwt==0.6.1
@@ -104,8 +104,9 @@ wasabi==0.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
 werkzeug==0.15.3
-wheel==0.33.1 ; python_version >= '3'
+wheel==0.38.0 ; python_version >= '3'
 widgetsnbextension==3.4.2
 
 rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
 urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
