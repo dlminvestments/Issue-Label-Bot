@@ -13,7 +13,11 @@ FROM tensorflow/tensorflow:2.10.0rc1-gpu
 snyk-fix-7faf2c7d33a6657d4cdd5cee71ad886a
 FROM tensorflow/tensorflow:latest-gpu
 =======
+snyk-fix-3297be71bbac68ee9e5d1a2826e5de83
+FROM tensorflow/tensorflow:2.11.0rc1-gpu
+=======
 FROM tensorflow/tensorflow:2.11.0rc2-gpu
+master
 master
 master
 master
