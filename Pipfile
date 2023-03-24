@@ -134,7 +134,7 @@ Werkzeug = "==0.15.1"
 gunicorn = "==19.9.0"
 google-cloud-pubsub = "==0.45.0"
 jupyter-client = "==5.2.4"
-jupyter-core = "==4.4.0"
+jupyter-core = "==4.11.2"
 
 [requires]
 python_version = "3.6"
