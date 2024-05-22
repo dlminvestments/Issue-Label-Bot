@@ -79,7 +79,7 @@ python-levenshtein==0.12.1
 pytz==2018.9
 pyzmq==18.0.1
 qtconsole==4.4.3
-requests==2.31.0
+requests==2.32.0
 scikit-learn==0.24.2
 scipy==1.10.0rc1
 send2trash==1.5.0
