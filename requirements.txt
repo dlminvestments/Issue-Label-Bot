@@ -23,7 +23,7 @@ ipython==8.10.0
 ipywidgets==7.4.2
 itsdangerous==1.1.0
 jedi==0.13.3
-jinja2==2.11.3
+jinja2==3.1.6
 jsonify==0.5
 jsonschema==2.6.0
 jupyter-client==5.2.4
@@ -34,7 +34,7 @@ jwcrypto==1.4
 jwt==0.6.1
 keras-applications==1.0.7
 keras-preprocessing==1.0.9
-keras==2.6.0rc3
+keras==3.9.0
 kiwisolver==1.0.1
 ktext==0.34
 markdown==3.1
