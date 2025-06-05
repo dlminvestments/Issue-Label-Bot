@@ -28,7 +28,7 @@ jsonify==0.5
 jsonschema==2.6.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
-jupyter-core==4.11.2
+jupyter-core==5.8.0
 jupyter==1.0.0
 jwcrypto==1.4
 jwt==0.6.1
