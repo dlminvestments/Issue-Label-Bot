@@ -34,7 +34,7 @@ jwcrypto==1.4
 jwt==0.6.1
 keras-applications==1.0.7
 keras-preprocessing==1.0.9
-keras==2.6.0rc3
+keras==3.11.0
 kiwisolver==1.0.1
 ktext==0.34
 markdown==3.1
