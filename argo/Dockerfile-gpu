@@ -22,7 +22,7 @@ FROM tensorflow/tensorflow:2.13.0rc1-gpu
 snyk-fix-2da5994ba58fedb9e672c5b6e014284b
 FROM tensorflow/tensorflow:2.13.0rc0-gpu
 =======
-FROM tensorflow/tensorflow:2.13.0rc2-gpu
+FROM tensorflow/tensorflow:2.21.0rc0-gpu
 master
 master
 master
